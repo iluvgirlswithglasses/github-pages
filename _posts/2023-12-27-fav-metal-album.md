@@ -1,12 +1,10 @@
 ---
 title: "My Favorite Rock/Metal Albums"
 date: 2023-12-27
-category: Miscellaneous
+category: [Miscellaneous]
 ---
 
-*Blog Construction Progress: 30%*
-
-# My Favorite Rock/Metal Albums
+*Blog Construction Progress: 20%*
 
 Rock/Metal stands unrivaled as the ultimate soundtrack for my hardcore ~4-hour programming sessions -- and you won't convince me otherwise. I mean, show me another genre that:
 
@@ -70,7 +68,7 @@ After three complete sections exclusively about Touhou-focused bands, I introduc
 
 Compared to the bands we've explored earlier, Sally is quite relaxed, steering away from the metal genre and positioning themselves as a rock band. Their music emits a laid-back vibe while still delivering catchy, emotionally-charged melodies. I've always had problems with songs that romanticize depression or emphasize emotional crises, thinking there's just no one who comprehends the subject matter and can accurately translate it into scores. Yet, Sally showed me how it sounds like.
 
-A plus point is that, they have around a dozen of albums, each of them is around 30 minutes in duration, and their quality is consistent af. Here is my Sally Collection, plus a Butaotome album cuz their style is pretty similar:
+A plus point is that, they have around a dozen of albums, each of them is around 30 minutes in duration, and their quality is consistent af. Here is my Sally Collection, plus a Butaotome album cuz their style is pretty similar to Sally's:
 
 - [Sally Collection](https://www.youtube.com/playlist?list=PLKfKK8NCD-YOSjSVzNZAK1_MHnprPdrKx)
 
