@@ -151,6 +151,10 @@
   margin-bottom: $spacing-unit * .5;
 }
 
+.footer-col p {
+  color: $text-muted-color;
+}
+
 .footer-col-1,
 .footer-col-2 {
   width: calc(50% - (#{$spacing-unit} / 2));

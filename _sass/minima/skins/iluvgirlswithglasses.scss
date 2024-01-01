@@ -15,7 +15,9 @@ $dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
 $dm-site-title-color:      $dm-brand-color-light !default;
 
 $dm-text-color:            #e0e0e0 !default;
+$dm-text-muted-color:      #888888 !default;
 $dm-background-color:      #1b1f23 !default;
+$dm-background-alt-color:  #151f2e !default;
 $dm-code-background-color: #262a2d !default;
 
 $dm-link-base-color:       #b29570 !default;
@@ -113,7 +115,9 @@ $brand-color-dark: $dm-brand-color-dark;
 $site-title-color: $dm-site-title-color;
 
 $text-color: $dm-text-color;
+$text-muted-color: $dm-text-muted-color;
 $background-color: $dm-background-color;
+$background-alt-color: $dm-background-alt-color;
 $code-background-color: $dm-code-background-color;
 
 $link-base-color: $dm-link-base-color;
