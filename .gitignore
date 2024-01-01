@@ -3,7 +3,6 @@ _editing/
 
 # Locally deployment files
 _site/
-Gemfile
 Gemfile.lock
 
 # Compiled source #
