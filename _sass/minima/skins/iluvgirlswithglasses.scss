@@ -8,31 +8,31 @@ $color-scheme-dark: true !default;
 // Dark mode
 // ---------
 
-$dm-brand-color:           #148799 !default;
-$dm-brand-color-light:     lighten($dm-brand-color, 5%) !default;
-$dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
+$brand-color:           #148799 !default;
+$brand-color-light:     lighten($brand-color, 5%) !default;
+$brand-color-dark:      darken($brand-color, 35%) !default;
 
-$dm-site-title-color:      $dm-brand-color-light !default;
+$site-title-color:      $brand-color-light !default;
 
-$dm-text-color:            #e0e0e0 !default;
-$dm-text-muted-color:      #888888 !default;
-$dm-background-color:      #1b1f23 !default;
-$dm-background-alt-color:  #151f2e !default;
-$dm-code-background-color: #262a2d !default;
+$text-color:            #e0e0e0 !default;
+$text-muted-color:      #888888 !default;
+$background-color:      #1b1f23 !default;
+$background-alt-color:  #151f2e !default;
+$code-background-color: #262a2d !default;
 
-$dm-link-base-color:       #b29570 !default;
-$dm-link-visited-color:    $dm-link-base-color !default;
-$dm-link-hover-color:      $dm-text-color !default;
+$link-base-color:       #b29570 !default;
+$link-visited-color:    $link-base-color !default;
+$link-hover-color:      $text-color !default;
 
-$dm-border-color-01:       $dm-brand-color-dark !default;
-$dm-border-color-02:       $dm-brand-color-light !default;
-$dm-border-color-03:       $dm-brand-color !default;
+$border-color-01:       $brand-color-dark !default;
+$border-color-02:       $brand-color-light !default;
+$border-color-03:       $brand-color !default;
 
-$dm-table-text-color:      $dm-text-color !default;
-$dm-table-zebra-color:     lighten($dm-background-color, 4%) !default;
-$dm-table-header-bg-color: lighten($dm-background-color, 10%) !default;
-$dm-table-header-border:   lighten($dm-background-color, 21%) !default;
-$dm-table-border-color:    $dm-border-color-01 !default;
+$table-text-color:      $text-color !default;
+$table-zebra-color:     lighten($background-color, 4%) !default;
+$table-header-bg-color: lighten($background-color, 10%) !default;
+$table-header-border:   lighten($background-color, 21%) !default;
+$table-border-color:    $border-color-01 !default;
 
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"
@@ -42,7 +42,7 @@ $dm-table-border-color:    $dm-border-color-01 !default;
 // https://github.com/material-theme/vsc-material-theme/blob/master/scripts/generator/color-set.ts
 // ----------------------------------------------------------------------------
 
-@mixin dm-highlight {
+@mixin highlight {
   .highlight {
     .c     { color: #545454; font-style: italic } // Comment
     .err   { color: #f07178; background-color: #e3d2d2 } // Error
@@ -106,34 +106,6 @@ $dm-table-border-color:    $dm-border-color-01 !default;
   }
 }
 
-// Dark skin (always dark mode)
-
-$brand-color: $dm-brand-color;
-$brand-color-light: $dm-brand-color-light;
-$brand-color-dark: $dm-brand-color-dark;
-
-$site-title-color: $dm-site-title-color;
-
-$text-color: $dm-text-color;
-$text-muted-color: $dm-text-muted-color;
-$background-color: $dm-background-color;
-$background-alt-color: $dm-background-alt-color;
-$code-background-color: $dm-code-background-color;
-
-$link-base-color: $dm-link-base-color;
-$link-visited-color: $dm-link-visited-color;
-$link-hover-color: $dm-link-hover-color;
-
-$border-color-01: $dm-border-color-01;
-$border-color-02: $dm-border-color-02;
-$border-color-03: $dm-border-color-03;
-
-$table-text-color: $dm-table-text-color;
-$table-zebra-color: $dm-table-zebra-color;
-$table-header-bg-color: $dm-table-header-bg-color;
-$table-header-border: $dm-table-header-border;
-$table-border-color: $dm-table-border-color;
-
-@include dm-highlight;
+@include highlight;
 
 

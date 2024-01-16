@@ -1,9 +1,13 @@
 # Unpublished materials
 _editing/
+_posts/2024-01-05-my-situation.md
+_posts/2024-01-16-my-status.md
+
 
 # Locally deployment files
 _site/
 Gemfile.lock
+run.sh
 
 # Compiled source #
 ###################

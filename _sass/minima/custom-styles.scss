@@ -1,2 +1,10 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+h2:after {
+	content: '';
+	display: block;
+	width: 100%;
+	border-bottom: solid 1px $brand-color-light;
+}
+
