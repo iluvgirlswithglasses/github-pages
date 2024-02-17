@@ -4,8 +4,8 @@ date: 2023-12-27
 category: [Miscellaneous]
 ---
 
-*Blog Construction Progress: 30%*  
-*Last Updated: 2024-04-15*
+*Blog Construction Progress: 60%*  
+*Last Updated: 2024-07-16*
 
 Rock/Metal stands unrivaled as the ultimate soundtrack for my hardcore ~4-hour programming sessions -- and you won't convince me otherwise. I mean, show me another genre that:
 
@@ -14,9 +14,14 @@ Rock/Metal stands unrivaled as the ultimate soundtrack for my hardcore ~4-hour p
 - Is diverse enough to stay refreshing even with daily listening.
 - Is crafted by individuals pursuing their own sounds, not clones.
 
-No other genres check all these boxes. Each POP track is over in a blink; they stick to a repetitive rhythm for about 4 minutes, and then you're abruptly on a completely different musical journey, making a cohesive POP playlist an elusive dream. Classical music, well, lacks the caffeine kick and the necessary consistency (sorry so much classical fans). Lofi, on the other hand, drains all the adrenaline from my system. The only contenders that come close to Rock/Metal are EDM and its variants, but let's be honest, they just don't bring the same level of diversity.
+No other genres check all these boxes. Each POP track is over in a blink; they stick to a rhythm for about 4 minutes, and then you're abruptly on a completely different musical journey, making a cohesive POP playlist an elusive dream. Classical music, well, lacks the caffeine kick and the necessary consistency (sorry so much classical fans). Lofi, on the other hand, drains all the adrenaline from my system. The only contenders that come close to Rock/Metal are EDM and its variants, but let's be honest, they just don't bring the same level of diversity.
 
-With all that in mind, let's me introduce you to some of the finest albums in my collection. Be wary, there's gonna be a lot of Touhou.
+With all that in mind, let's me introduce you to some of the finest albums in my collection. This topic is divided into two parts: The first part, this blog, features Touhou-related bands; while the second part covers other bands.
+
+> Personal Favorites:
+> 1. [Takamachi Walk](#takamachi-walk)
+> 2. [Undead Corporation](#undead-corperation)
+> 3. [Demetori](#demetori)
 
 ## YaboiMatoi & RichaadEB
 
@@ -111,15 +116,17 @@ Yuyoyuppe's tracks are really good at envoking the long-lost energy deep within 
 
 ## Takamachi Walk
 
-When I wrote *"Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotoional bursts and burns."* at [Sally's section](#Sally), I was thinking about Takamachi Walk. I've longed to write about them for months, but couldn't seem to put my words on how much I love them. Even now, I still don't, so I'll just pen down what impressed me the most.
+When I wrote *"Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotional bursts and burns."* at [Sally's section](#sally), I was thinking about Takamachi Walk. I've longed to write about them for months, but couldn't seem to put my words on how much I love them. Even now, I still don't, so I'll just pen down what impressed me the most.
 
 Ever heard of the five stages of grief? Think of the 3 middle stages: "Anger", "Bargaining", and "Depression"; that's Takamachi Walk. Listening to their albums is like being swept away by hurricanes of raw energy shaped by sorrow. Every of these albums, when experienced as a whole, feels like a encapsulated life journey, taking you through peaks of explosive emotions and valleys of haunting, introspective quiet. The very day I discovered Takamachi Walk, they instantly became my favorite band for their ability to infuse each song with deep, burning visceral resonance. Whether they're delivering blistering speed or brooding melodies, there's always a palpable sentimental intensity that runs through their music.
 
 In order to express these fierce emotions, Takamachi Walk possesses technical skills that are nothing short of phenomenal. This band displays mastery across an absolutely massive range of instruments; combined with their incredible arrangement prowess, they showcase both the frenetic energy of thrash metal and the complex, layered harmonies of progressive rock. Their vocals, especially, cut through the mix with a raw, visceral edge; there is so much soul, passion, and profound feeling in Takamachi Walk's vocal work that I can't help but ponder what the band went through when composing and recording these pieces.
 
-I don't even need to specificly recommend any album of them. As I'm writing this, they've released 3 albums and all of them are just GOATed. Each of those albums shows how constantly Takamachi Walk evolves their style and genre. Their willingness to push boundaries and explore new sonic territories keeps their music fresh, innovative, exciting, and most of all, awe-inspiring:
+I don't even need to specificly recommend any album of them. As I'm writing this, they've released 3 albums and 1 EP and all of them are just GOATed:
 
 - [Takamachi Walk](https://music.apple.com/vn/artist/takamachi-walk/1578557671)
+
+Each of these albums shows how constantly Takamachi Walk evolves their style and genre. Their willingness to push boundaries and explore new sonic territories keeps their music fresh, innovative, exciting, and most of all, awe-inspiring.
 
 Foreground Eclipse is next.
 
