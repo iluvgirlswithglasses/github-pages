@@ -1,6 +1,7 @@
 ---
 layout: page
-title: C++ Programming Style in my Repositories.
+highlighter: rouge
+title: C++ Programming Style in my Repositories
 ---
 
 > The term "this repository" refers to all my C++ projects created from March 1st, 2024, onward. This use of ambiguous language exists because this document was originally written exclusively for only one project.
@@ -25,11 +26,11 @@ Sometimes it is just so much more rational to use one additional indentation tha
 
 When declaring pointer data or a function that returns a pointer type, the preferred use of `*` is adjacent to the data type and not adjacent to the variable or the function name. This is in contrast to the C Kernel Style. The following examples show how this repository declares a pointer:
 
-```C++
+{% highlight c++ %}
 char* linux_banner;
 uint64_t memparse(char* ptr, char** retptr);
 char* match_strdup(substring_t* s);
-```
+{% endhighlight %}
 
 Rationale: The pointer is a type of it own. Using `char* ptr` implies that `ptr` has type `char*`, and this is nice.
 
@@ -46,14 +47,14 @@ Files and directories are named in `snake_case`. Moreover, library files must be
 The header definition should specify the relative path of the header within the project's source directory. In this specification, slashes are replaced with two consecutive underscores "\_\_", while other separators are replaced with a single underscore "_". For instance, a header file with path `<project>/lib/ibface/face_detector.h` must include the following definition:
 
 
-```C++
+{% highlight c++ %}
 #ifndef LIB__IBFACE__FACE_DETECTOR_H
 #define LIB__IBFACE__FACE_DETECTOR_H
 
 [...]
 
 #endif  // LIB__IBFACE__FACE_DETECTOR_H
-```
+{% endhighlight %}
 
 ## 2.3. Structs, Functions, and Variable Naming
 
@@ -71,7 +72,7 @@ With this philosophy in mind, here goes.
 
 User-defined structures are named in `PascalCase`. Public constants are also named in `PascalCase`. Their names must be as descriptive as possible. Examples:
 
-```C++
+{% highlight c++ %}
 struct Param
 {
 public:
@@ -81,11 +82,11 @@ public:
         AllowQuestionableStatusCleanse = true;
     [...]
 }
-```
+{% endhighlight %}
 
 However, for alias types, use `snake_case` with a `_t` suffix:
 
-```C++
+{% highlight c++ %}
 class Orient
 {
 public:
@@ -96,15 +97,15 @@ public:
 
     [...]
 };
-```
+{% endhighlight %}
 
 Class methods are named in `snake_case`, and the names should be descriptive too:
 
-```C++
+{% highlight c++ %}
 static int16_t angle(int16_t a, int16_t b);
 static int16_t clockwise_angle(int16_t a, int16_t b);
 int32_t foo(int32_t bar);
-```
+{% endhighlight %}
 
 As for variables, including local variables and class members, they are named in `snake_case`, and it is encouraged to encode their name so as to reduce length. There are only a few rules to follow if you plan to encode a name:
 
@@ -113,7 +114,7 @@ As for variables, including local variables and class members, they are named in
 
 For references, these are variable names that are encoded by their consonants:
 
-```C++
+{% highlight c++ %}
 class Matcher
 {
     [...]
@@ -124,7 +125,7 @@ class Matcher
     MinutiaDupes cdps;  // Candidate's DuPeS
 
 };
-```
+{% endhighlight %}
 
 ## 2.4. Brackets and Parentheses
 
@@ -132,17 +133,17 @@ The C-Kernel's convention for these is nice, but it doesn't cover a specific cas
 
 This repository does the following for this kind of prototypes:
 
-```C++
+{% highlight c++ %}
 int32_t function(
     const image_t& src_image,
     const std::vector<dlib::rectangle>& truth_labels,
     int something_funny
 ) const;
-```
+{% endhighlight %}
 
 and this for their implementation:
 
-```C++
+{% highlight c++ %}
 int32_t function(
     const image_t& src_image,
     const std::vector<dlib::rectangle>& truth_labels,
@@ -151,7 +152,7 @@ int32_t function(
 {
     // some codes
 }
-```
+{% endhighlight %}
 
 ## 2.5. Comments
 
@@ -161,7 +162,7 @@ There are 4 types of comments in this repository.
 
 For structs and classes, what they represent and their notices shall be commented like this (please pay attention to the indentation and the linebreaks):
 
-```C++
+{% highlight c++ %}
 /*!
 WHAT THIS OBJECT REPRESENTS:
 
@@ -184,13 +185,13 @@ struct TheStruct
 {
     [...]
 };
-```
+{% endhighlight %}
 
 Unlike structs and classes, functions have their documentation comment written **after** their **prototype declaration**. Rationale: You need to know the function's name, its return type, its parameters, its additional attributes (like `const`), et cetera- before learning what it does.
 
 And, please note never to write a function's documentation comment in the implementation. Do so in the **prototype declaration** only. Following is a good example:
 
-```C++
+{% highlight c++ %}
 int32_t* detect(IbFace::FaceDetector*, const char* fimg);
 /*!
 REQUIRES:
@@ -208,13 +209,13 @@ RETURNS:
     - a[1 + 4i + 3]: Right coord
 
 !*/
-```
+{% endhighlight %}
 
 ### 2.5.2. Notice Comment
 
 These are mostly used for denoting the purpose/idea/whatever of a code segment, and are written before that segment. There are no significant rules for these comments. For example:
 
-```C++
+{% highlight c++ %}
 // third condition
 // abcxyz (this kind of comment can be multi-line)
 const bool rd = [&]() {
@@ -222,7 +223,7 @@ const bool rd = [&]() {
     uint8_t t = static_cast<uint8_t>(theta + p2.probe()->a());
     return FMath::angle(t, p2.candi()->a()) <= Param::AngleTolerance;
 }();
-```
+{% endhighlight %}
 
 ### 2.5.3. Inline Comment
 
@@ -234,10 +235,10 @@ These are mostly used for either:
 
 Same as the notice comments, these don't have strict rules. Some examples for them are:
 
-```C++
+{% highlight c++ %}
 MinutiaDupes pdps = something();    // 'pdps' means 'Probe DuPeS'
 memset(&pdps[0], 0, probe.size());  // == sizeof(pdps[0]) * pdps.size()
-```
+{% endhighlight %}
 
 ### 2.5.4. Segment Separator
 
@@ -245,7 +246,7 @@ These comments are used for separating different regions of a file. There are th
 
 Level 1:
 
-```C++
+{% highlight c++ %}
 /**
  * @! Section 5:	M3GL Algorithm + Upgrades
  *
@@ -254,22 +255,22 @@ Level 1:
  *
  * */
 [... code goes here]
-```
+{% endhighlight %}
 
 Level 2:
 
-```C++
+{% highlight c++ %}
 /* @! Procedure 5.1.2 */
 // notice comments, if necessary
 [... code goes here]
-```
+{% endhighlight %}
 
 And, level 3:
-```C++
+{% highlight c++ %}
 // a label with a fixed length bar ----------------------------------
 // also notice comments if necessary
 [... code goes here]
-```
+{% endhighlight %}
 
 # 3. Shared Library's API
 
@@ -283,7 +284,7 @@ For exported functions of the CSharp (C\#) API:
 
 Following are some examples:
 
-```C++
+{% highlight c++ %}
 extern "C" __declspec(dllexport)
 IbFace::FaceDetector* Construct_FaceDetector(const char* fnet);
 
@@ -292,5 +293,5 @@ void Destruct_FaceDetector(IbFace::FaceDetector*);
 
 extern "C" __declspec(dllexport)
 int32_t* FaceDetector_Detect(IbFace::FaceDetector*, const char* fimg);
-```
+{% endhighlight %}
 
