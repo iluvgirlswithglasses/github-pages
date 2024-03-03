@@ -1,6 +1,7 @@
 ---
 layout: page
-title: C++ Programming Style in my Repositories.
+highlighter: rouge
+title: C++ Programming Style in my Repositories
 ---
 
 > The term "this repository" refers to all my C++ projects created from March 1st, 2024, onward. This use of ambiguous language exists because this document was originally written exclusively for only one project.
