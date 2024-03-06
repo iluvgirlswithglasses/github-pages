@@ -23,7 +23,7 @@ Meet these two maestros who serve as the perfect metal introductory for newcomer
 
 I recommend listening to these two guys for extremely long programming sessions, for that:
 
-- Their arrangements highlight the inherently ear-catching melodies of the originals.
+- Their arrangements highlight the inherently ear-catching melodies of the original compositions.
 - You'll find cool guitar riffs and solos scattered throughout, making you feel like you can sprint forever.
 - They rock hard enough to keep your concentration sharp without overwhelming you to exhaustion.
 - Plus, they have some excellent vocal tracks -- check [this](https://www.youtube.com/watch?v=9Xz4NV0zsbY) one.
