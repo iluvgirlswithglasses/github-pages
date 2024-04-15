@@ -77,7 +77,7 @@ Xi-on is actually one hell of a band. They have shown their signature, their uni
 
 When it comes to rock, they redefine rock their own. Their guitarist? Phenomenal. I'm talking hair-raising, goosebump-inducing talent. Quoted from a comment of the video below, *"Faai (Fai? Phai?) is one of the goats in the toho guitar scene. Versatily, groove, timing, chops, man got it all. Sooo many good and unique tracks."* the guitarist of xi-on is literally a sight to behold.
 
-But it's not just about individual talent. What really sets xi-on apart from the rock world is their exceptional coordination as a band. It's like... they share a single heartbeat. Faai is already an phenomenal soloist; yet whenever Faai goes off on a solo, the whole band elevates him to even another level. It's electric, it's energizing, and it gives me goosebumps every single time.
+But it's not just about individual talent. What really sets xi-on apart from the rock world is their exceptional coordination as a band. It's like... they share a single heartbeat. Faai is already a phenomenal soloist; yet whenever Faai goes off on a solo, the whole band elevates him to even the next f!@#ing level. It's electric, it's energizing, and it gives me goosebumps every single time.
 
 Check them out to see what I mean: [Best of Faai (彩音 〜xi-on〜)](https://www.youtube.com/watch?v=01TECJ-c_OE)
 
