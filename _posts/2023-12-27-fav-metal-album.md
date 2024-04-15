@@ -4,7 +4,8 @@ date: 2023-12-27
 category: [Miscellaneous]
 ---
 
-*Blog Construction Progress: 20%*
+*Blog Construction Progress: 30%*  
+*Last Updated: 2024-04-15*
 
 Rock/Metal stands unrivaled as the ultimate soundtrack for my hardcore ~4-hour programming sessions -- and you won't convince me otherwise. I mean, show me another genre that:
 
@@ -50,29 +51,67 @@ I highly recommend these two playlists as an introduction to their music:
 - [Demetori's Final Boss Arrangements](https://www.youtube.com/watch?v=afNEovhl3Eg)
 - [Best of Demetori](https://www.youtube.com/watch?v=8EdW28B-In4)
 
+Plus two pieces of Demetori which I've been listening to every week (some weeks, everyday) since 2019 until now (2024):
+
+- [Ego, Schizoid, Beat.](https://www.youtube.com/watch?v=hjwdyd9_zfM) (RIP Alice Margatroid uploads of these videos)
+- [Septette for the Dead Princess](https://www.youtube.com/watch?v=oGgS6en5DAc)
+
+Additionally, I'm sorry that I'll only be giving you youtube links for this blog. Most of these bands aren't officially available on streaming platforms; and I -- for most of the time -- listen to them through purchased albums. So youtube links are really the only way I can share these music.
+
 ## Undead Corperation
 
 Now, now, after two previous sections, you may feel that "Oh these are just boys showing off their guitar skills, things are still pretty tamed for me." Well, metal just isn't itself without losing some control, is it? In that case, let me introduce you to the untamed force that is Undead Corporation.
 
-What defines Undead Corporation? Think potent guitar riffs, rapid-fire drum beats, and vocals that hit scream-core levels of intensity. These guys are the wildest rock band I've encountered in my five years of navigating the metal scene. While they also focus on Touhou re-arrangements like the previous bands, Undead Corporation takes a different approach -- they rip the melodies off and tune them into a chaotic symphony.
+What defines Undead Corporation? Think potent guitar riffs, rapid-fire drum beats, and robust, intense scream-core vocals. These guys are the wildest rock band I've encountered in my five years of navigating the metal scene. While they also focus on Touhou re-arrangements like the previous bands, Undead Corporation takes a different approach -- they rip the melodies off and tune them into a chaotic symphony.
 
 Yet, behind the chaos lies an ensemble of undeniably talented musicians. Crafting madness into something exciting and enjoyable is an exceptional talent in itself. I strongly suggest their tracks to accompany with you during tight and stressful deadline sprints.
 
 - [Best of Undead Corperation](https://www.youtube.com/playlist?list=PLwjR_fm-Nc2tp11inF6fIlhRoFb9YZo_-)
+- [My favorite Undead Corporation piece](https://www.youtube.com/watch?v=6hFUFu_4kgE)
 
 By the way, did I tell you that these guys used car warning chime as an instrument in one of their pieces?
 
+## 〜xi-on〜
+
+Xi-on is actually one hell of a band. They have shown their signature, their unique arrangement and instrumental mastery in a large pool of genres such as orchestral, bossa nova, EDM; and most prominently---in well-known albums like Cafe de Touhou---jazz.
+
+When it comes to rock, they redefine rock their own. Their guitarist? Phenomenal. I'm talking hair-raising, goosebump-inducing talent. Quoted from a comment of the video below, *"Faai (Fai? Phai?) is one of the goats in the toho guitar scene. Versatily, groove, timing, chops, man got it all. Sooo many good and unique tracks."* the guitarist of xi-on is literally a sight to behold.
+
+But it's not just about individual talent. What really sets xi-on apart from the rock world is their exceptional coordination as a band. It's like... they share a single heartbeat. Faai is already an phenomenal soloist; yet whenever Faai goes off on a solo, the whole band elevates him to even another level. It's electric, it's energizing, and it gives me goosebumps every single time.
+
+Check them out to see what I mean: [Best of Faai (彩音 〜xi-on〜)](https://www.youtube.com/watch?v=01TECJ-c_OE)
+
+<!--
+## Foreground Eclipse
+-->
+
 ## Sally
 
-After three complete sections exclusively about Touhou-focused bands, I introduce you to another Touhou circle: Sally.
+Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotoional bursts and burns. This and some of the following sections introduce yet other Touhou-focused bands that take this theme. Let's begin with Sally.
 
-Compared to the bands we've explored earlier, Sally is quite relaxed, steering away from the metal genre and positioning themselves as a rock band. Their music emits a laid-back vibe while still delivering catchy, emotionally-charged melodies. I've always had problems with songs that romanticize depression or emphasize emotional crises, thinking there's just no one who comprehends the subject matter and can accurately translate it into scores. Yet, Sally showed me how it sounds like.
+Compared to the bands we've explored earlier, Sally is quite relaxed, steering away from the metal genre and positioning themselves as an alternative rock band. Their music emits a laid-back vibe while still delivering catchy, and most importantly, emotionally-charged melodies. I've always had problems with songs that romanticize depression or emphasize emotional crises, thinking there's just no one who comprehends the subject matter and can accurately translate it into scores. Yet, Sally showed me how it sounds like.
 
 A plus point is that, they have around a dozen of albums, each of them is around 30 minutes in duration, and their quality is consistent af. Here is my Sally Collection, plus a Butaotome album cuz their style is pretty similar to Sally's:
 
 - [Sally Collection](https://www.youtube.com/playlist?list=PLKfKK8NCD-YOSjSVzNZAK1_MHnprPdrKx)
 
 This collection works well at keeping you concentrated, even when you're on low energy.
+
+Additionally, since Sally and the next circles share a theme (as aforementioned in the beginning of this section), I highly recommend this compilation of their songs:
+
+- [TOUHOU - EMOTIONAL ROCK, METAL, POST-HARDCORE, SCREAMO MIX](https://www.youtube.com/watch?v=vAl_sigbEik)
+
+## Draw The Emotional
+
+Metal often comes with scream-core, but it takes quite a musical mind to integrate screams into the music. I've heard hundreds of tracks---both western and eastern---where the scream vocalist is undoubtedly solid, yet they fail to synchronize, to "click" with the instruments. Sometimes, the screams fall flat; while sometimes, the excessive screams make the piece sounds dry. Yuyoyuppe and his friends at Draw the Emotional, however, have a totally unique approach at scream-core and undeniably mastered it:
+
+In a Yuyoyuppe track, every word, every scream, even BREATHES between lines is filled with such intense, profound emotions. That's precisely why I f!@#ing admire him so goddamn much. As my favorite YouTube channel aptly put it, "If Yellow Squadron was 'pure heavy metal adrenaline,' then yupe is 'raw emotions.'"
+
+Yuyoyuppe's tracks are really good at envoking the long-lost energy deep within your soul. You don't always have the energy to listen to metal, you don't always float at the mood to listen to alternative rock... but these guys, with their one-of-a-kind musical prowess, manage to compose metal pieces which kick your mood into high gear with the acceleration of a Formula 1 car. Please check these out:
+
+- Metal/Screamo: [Yuyoyuppe - SICK Yanderu EP](https://www.youtube.com/watch?v=aEtwA-iwoCQ) (This is extremely good and unique. I ensure it.)
+- Metal/Screamo: [Best of Draw The Emotional](https://www.youtube.com/watch?v=cpAILRL3JcA)
+- Rock/Vocaloid: [Best of Yuyoyuppe](https://www.youtube.com/watch?v=3kerscNS8K0)
 
 ## There's more to this blog!
 
