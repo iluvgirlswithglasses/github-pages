@@ -14,7 +14,7 @@ This section addresses the modifications this repository takes towards the C-Ker
 
 ## 1.1. Indentation
 
-Indent using tabs, not spaces. An indentation is 4 characters width.
+An indentation is 4 characters width; and indent using spaces, not tabs. My codebases before 2024-05-24 use tabs and f that.
 
 Only indent what needs indentation. E.g. Allign the `namespace` keyword with its direct subordinates in the same column; do not waste the first indentation level here.
 
