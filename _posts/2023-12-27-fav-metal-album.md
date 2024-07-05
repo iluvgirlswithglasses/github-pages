@@ -81,13 +81,9 @@ But it's not just about individual talent. What really sets xi-on apart from the
 
 Check them out to see what I mean: [Best of Faai (彩音 〜xi-on〜)](https://www.youtube.com/watch?v=01TECJ-c_OE)
 
-<!--
-## Foreground Eclipse
--->
-
 ## Sally
 
-Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotoional bursts and burns. This and some of the following sections introduce yet other Touhou-focused bands that take this theme. Let's begin with Sally.
+Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotional bursts and burns. This and some of the following sections introduce yet other Touhou-focused bands that take this theme. Let's begin with Sally.
 
 Compared to the bands we've explored earlier, Sally is quite relaxed, steering away from the metal genre and positioning themselves as an alternative rock band. Their music emits a laid-back vibe while still delivering catchy, and most importantly, emotionally-charged melodies. I've always had problems with songs that romanticize depression or emphasize emotional crises, thinking there's just no one who comprehends the subject matter and can accurately translate it into scores. Yet, Sally showed me how it sounds like.
 
@@ -109,9 +105,23 @@ In a Yuyoyuppe track, every word, every scream, even BREATHES between lines is f
 
 Yuyoyuppe's tracks are really good at envoking the long-lost energy deep within your soul. You don't always have the energy to listen to metal, you don't always float at the mood to listen to alternative rock... but these guys, with their one-of-a-kind musical prowess, manage to compose metal pieces which kick your mood into high gear with the acceleration of a Formula 1 car. Please check these out:
 
-- Metal/Screamo: [Yuyoyuppe - SICK Yanderu EP](https://www.youtube.com/watch?v=aEtwA-iwoCQ) (This is extremely good and unique. I ensure it.)
+- Metal/Screamo: [Yuyoyuppe - SICK Yanderu EP](https://www.youtube.com/watch?v=aEtwA-iwoCQ)
 - Metal/Screamo: [Best of Draw The Emotional](https://www.youtube.com/watch?v=cpAILRL3JcA)
 - Rock/Vocaloid: [Best of Yuyoyuppe](https://www.youtube.com/watch?v=3kerscNS8K0)
+
+## Takamachi Walk
+
+When I wrote *"Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotoional bursts and burns."* at [Sally's section](#Sally), I was thinking about Takamachi Walk. I've longed to write about them for months, but couldn't seem to put my words on how much I love them. Even now, I still don't, so I'll just pen down what impressed me the most.
+
+Ever heard of the five stages of grief? Think of the 3 middle stages: "Anger", "Bargaining", and "Depression"; that's Takamachi Walk. Listening to their albums is like being swept away by hurricanes of raw energy shaped by sorrow. Every of these albums, when experienced as a whole, feels like a encapsulated life journey, taking you through peaks of explosive emotions and valleys of haunting, introspective quiet. The very day I discovered Takamachi Walk, they instantly became my favorite band for their ability to infuse each song with deep, burning visceral resonance. Whether they're delivering blistering speed or brooding melodies, there's always a palpable sentimental intensity that runs through their music.
+
+In order to express these fierce emotions, Takamachi Walk possesses technical skills that are nothing short of phenomenal. This band displays mastery across an absolutely massive range of instruments; combined with their incredible arrangement prowess, they showcase both the frenetic energy of thrash metal and the complex, layered harmonies of progressive rock. Their vocals, especially, cut through the mix with a raw, visceral edge; there is so much soul, passion, and profound feeling in Takamachi Walk's vocal work that I can't help but ponder what the band went through when composing and recording these pieces.
+
+I don't even need to specificly recommend any album of them. As I'm writing this, they've released 3 albums and all of them are just GOATed. Each of albums shows how constantly Takamachi Walk evolves their style and genre. Their willingness to push boundaries and explore new sonic territories keeps their music fresh, innovative, exciting, and most of all, awe-inspiring:
+
+- [Takamachi Walk](https://music.apple.com/vn/artist/takamachi-walk/1578557671)
+
+Foreground Eclipse is next.
 
 ## There's more to this blog!
 
