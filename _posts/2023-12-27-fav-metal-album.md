@@ -4,8 +4,8 @@ date: 2023-12-27
 category: [Miscellaneous]
 ---
 
-*Blog Construction Progress: 30%*  
-*Last Updated: 2024-04-15*
+*Blog Construction Progress: 60%*  
+*Last Updated: 2024-07-16*
 
 Rock/Metal stands unrivaled as the ultimate soundtrack for my hardcore ~4-hour programming sessions -- and you won't convince me otherwise. I mean, show me another genre that:
 
@@ -16,7 +16,12 @@ Rock/Metal stands unrivaled as the ultimate soundtrack for my hardcore ~4-hour p
 
 No other genres check all these boxes. Each POP track is over in a blink; they stick to a repetitive rhythm for about 4 minutes, and then you're abruptly on a completely different musical journey, making a cohesive POP playlist an elusive dream. Classical music, well, lacks the caffeine kick and the necessary consistency (sorry so much classical fans). Lofi, on the other hand, drains all the adrenaline from my system. The only contenders that come close to Rock/Metal are EDM and its variants, but let's be honest, they just don't bring the same level of diversity.
 
-With all that in mind, let's me introduce you to some of the finest albums in my collection. Be wary, there's gonna be a lot of Touhou.
+With all that in mind, let's me introduce you to some of the finest albums in my collection. This topic is divided into two parts: The first part, this blog, features Touhou-related bands; while the second part covers other bands.
+
+> Personal Favorites:
+> 1. [Takamachi Walk](#takamachi-walk)
+> 2. [Demetori](#demetori)
+> 3. [Undead Corporation](#undead-corperation)
 
 ## YaboiMatoi & RichaadEB
 
@@ -111,7 +116,7 @@ Yuyoyuppe's tracks are really good at envoking the long-lost energy deep within 
 
 ## Takamachi Walk
 
-When I wrote *"Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotoional bursts and burns."* at [Sally's section](#Sally), I was thinking about Takamachi Walk. I've longed to write about them for months, but couldn't seem to put my words on how much I love them. Even now, I still don't, so I'll just pen down what impressed me the most.
+When I wrote *"Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotoional bursts and burns."* at [Sally's section](#sally), I was thinking about Takamachi Walk. I've longed to write about them for months, but couldn't seem to put my words on how much I love them. Even now, I still don't, so I'll just pen down what impressed me the most.
 
 Ever heard of the five stages of grief? Think of the 3 middle stages: "Anger", "Bargaining", and "Depression"; that's Takamachi Walk. Listening to their albums is like being swept away by hurricanes of raw energy shaped by sorrow. Every of these albums, when experienced as a whole, feels like a encapsulated life journey, taking you through peaks of explosive emotions and valleys of haunting, introspective quiet. The very day I discovered Takamachi Walk, they instantly became my favorite band for their ability to infuse each song with deep, burning visceral resonance. Whether they're delivering blistering speed or brooding melodies, there's always a palpable sentimental intensity that runs through their music.
 
