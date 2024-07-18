@@ -14,7 +14,7 @@ Rock/Metal stands unrivaled as the ultimate soundtrack for my hardcore ~4-hour p
 - Is diverse enough to stay refreshing even with daily listening.
 - Is crafted by individuals pursuing their own sounds, not clones.
 
-No other genres check all these boxes. Each POP track is over in a blink; they stick to a repetitive rhythm for about 4 minutes, and then you're abruptly on a completely different musical journey, making a cohesive POP playlist an elusive dream. Classical music, well, lacks the caffeine kick and the necessary consistency (sorry so much classical fans). Lofi, on the other hand, drains all the adrenaline from my system. The only contenders that come close to Rock/Metal are EDM and its variants, but let's be honest, they just don't bring the same level of diversity.
+No other genres check all these boxes. Each POP track is over in a blink; they stick to a rhythm for about 4 minutes, and then you're abruptly on a completely different musical journey, making a cohesive POP playlist an elusive dream. Classical music, well, lacks the caffeine kick and the necessary consistency (sorry so much classical fans). Lofi, on the other hand, drains all the adrenaline from my system. The only contenders that come close to Rock/Metal are EDM and its variants, but let's be honest, they just don't bring the same level of diversity.
 
 With all that in mind, let's me introduce you to some of the finest albums in my collection. This topic is divided into two parts: The first part, this blog, features Touhou-related bands; while the second part covers other bands.
 
