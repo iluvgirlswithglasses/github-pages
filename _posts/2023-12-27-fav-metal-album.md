@@ -116,7 +116,7 @@ Yuyoyuppe's tracks are really good at envoking the long-lost energy deep within 
 
 ## Takamachi Walk
 
-When I wrote *"Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotoional bursts and burns."* at [Sally's section](#sally), I was thinking about Takamachi Walk. I've longed to write about them for months, but couldn't seem to put my words on how much I love them. Even now, I still don't, so I'll just pen down what impressed me the most.
+When I wrote *"Rock and metal can be very emotional; in fact, I believe this is the best genre to impart emotional bursts and burns."* at [Sally's section](#sally), I was thinking about Takamachi Walk. I've longed to write about them for months, but couldn't seem to put my words on how much I love them. Even now, I still don't, so I'll just pen down what impressed me the most.
 
 Ever heard of the five stages of grief? Think of the 3 middle stages: "Anger", "Bargaining", and "Depression"; that's Takamachi Walk. Listening to their albums is like being swept away by hurricanes of raw energy shaped by sorrow. Every of these albums, when experienced as a whole, feels like a encapsulated life journey, taking you through peaks of explosive emotions and valleys of haunting, introspective quiet. The very day I discovered Takamachi Walk, they instantly became my favorite band for their ability to infuse each song with deep, burning visceral resonance. Whether they're delivering blistering speed or brooding melodies, there's always a palpable sentimental intensity that runs through their music.
 
