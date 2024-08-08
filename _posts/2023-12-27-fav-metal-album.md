@@ -122,9 +122,11 @@ Ever heard of the five stages of grief? Think of the 3 middle stages: "Anger", "
 
 In order to express these fierce emotions, Takamachi Walk possesses technical skills that are nothing short of phenomenal. This band displays mastery across an absolutely massive range of instruments; combined with their incredible arrangement prowess, they showcase both the frenetic energy of thrash metal and the complex, layered harmonies of progressive rock. Their vocals, especially, cut through the mix with a raw, visceral edge; there is so much soul, passion, and profound feeling in Takamachi Walk's vocal work that I can't help but ponder what the band went through when composing and recording these pieces.
 
-I don't even need to specificly recommend any album of them. As I'm writing this, they've released 3 albums and all of them are just GOATed. Each of those albums shows how constantly Takamachi Walk evolves their style and genre. Their willingness to push boundaries and explore new sonic territories keeps their music fresh, innovative, exciting, and most of all, awe-inspiring:
+I don't even need to specificly recommend any album of them. As I'm writing this, they've released 3 albums and all of them are just GOATed:
 
 - [Takamachi Walk](https://music.apple.com/vn/artist/takamachi-walk/1578557671)
+
+Each of these albums shows how constantly Takamachi Walk evolves their style and genre. Their willingness to push boundaries and explore new sonic territories keeps their music fresh, innovative, exciting, and most of all, awe-inspiring.
 
 Foreground Eclipse is next.
 
