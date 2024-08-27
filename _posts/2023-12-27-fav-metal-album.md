@@ -20,7 +20,7 @@ With all that in mind, let's me introduce you to some of the finest albums in my
 
 > Personal Favorites:
 > 1. [Takamachi Walk](#takamachi-walk)
-> 2. *(A very huge distance, that even if Steve Vai and As I Lay Dying combined with the two bands below, they wouldn't fill the gap /j.)*
+> 2. (A very huge distance, that even if Steve Vai and As I Lay Dying combined with the two bands below, they wouldn't fill the gap /j.)
 > 3. [Demetori](#demetori)
 > 4. [Undead Corporation](#undead-corperation)
 
