@@ -20,9 +20,8 @@ With all that in mind, let's me introduce you to some of the finest albums in my
 
 > Personal Favorites:
 > 1. [Takamachi Walk](#takamachi-walk)
-> 2. (A very huge distance, that even if Steve Vai and As I Lay Dying combined with the two bands below, they wouldn't fill the gap /j.)
+> 2. [Undead Corporation](#undead-corperation)
 > 3. [Demetori](#demetori)
-> 4. [Undead Corporation](#undead-corperation)
 
 ## YaboiMatoi & RichaadEB
 
@@ -123,7 +122,7 @@ Ever heard of the five stages of grief? Think of the 3 middle stages: "Anger", "
 
 In order to express these fierce emotions, Takamachi Walk possesses technical skills that are nothing short of phenomenal. This band displays mastery across an absolutely massive range of instruments; combined with their incredible arrangement prowess, they showcase both the frenetic energy of thrash metal and the complex, layered harmonies of progressive rock. Their vocals, especially, cut through the mix with a raw, visceral edge; there is so much soul, passion, and profound feeling in Takamachi Walk's vocal work that I can't help but ponder what the band went through when composing and recording these pieces.
 
-I don't even need to specificly recommend any album of them. As I'm writing this, they've released 3 albums and all of them are just GOATed:
+I don't even need to specificly recommend any album of them. As I'm writing this, they've released 3 albums and 1 EP and all of them are just GOATed:
 
 - [Takamachi Walk](https://music.apple.com/vn/artist/takamachi-walk/1578557671)
 
